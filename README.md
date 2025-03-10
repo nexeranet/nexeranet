@@ -20,8 +20,8 @@ Software Developer
 <table align="center">
   <tr>
     <td align="center" width="88">
-        <i class="devicon-dbeaver-plain colored"></i>
-        DBeaver
+        <img src="./images/dbeaver-original.svg" alt="CSS3" width="44" height="44"/>
+        <br>DBeaver
     </td>
   </tr>
 </table>
