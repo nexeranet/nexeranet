@@ -1,4 +1,8 @@
 <div id="header" align="center">
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
 <img src="./assets/github.gif" width="100"/>
 <h1>
 Hey there, I'm Oleh!
@@ -6,9 +10,22 @@ Hey there, I'm Oleh!
 </h1>
 </div>
 
+### About Me :
 
-- 👀 I’m interested in code, guitars, swords 
-- 🌱 I’m currently learning python, go
+Software Developer
+
+### My stack and tools :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+        <i class="devicon-dbeaver-plain colored"></i>
+        DBeaver
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
